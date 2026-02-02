@@ -1,6 +1,8 @@
+For Specs: please see Project_Specs.pdf
+<br>
 a. Full name: Tianming Guo 
 <br>
-b. Your Student ID:  9863196514
+b. Your Student ID: Hidden
 <br>
 c. What you have done in the assignment: I write all the code by myself, only asked AI to check some syntax, some design and some errors, and made adjustment based on that.
 I wrote where I made change subject to AI in the comments.

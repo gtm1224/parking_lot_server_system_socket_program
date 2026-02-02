@@ -1,4 +1,4 @@
-For Specs: please see Project_Specs.pdf
+For Specs: please see Project_Specs.pdf:https://github.com/gtm1224/parking_lot_server_system_socket_program/blob/master/Project_Specs.pdf
 <br>
 a. Full name: Tianming Guo 
 <br>
